@@ -11,5 +11,7 @@ Tags:
 >usage of anchor tags
 
 Features:
-> Basic contact and professional information 
+
+> Basic contact and professional information
+>  
 > Switchability between pages for every section  
