@@ -5,9 +5,9 @@ Tech Stack used:
 Basic and intermediate HTML 
 
 Tags:
->HTML tables
->Paddings
->basic paragraphs
+>HTML tables,
+>Paddings,
+>basic paragraphs,
 >usage of anchor tags
 
 Features:
